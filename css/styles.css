@@ -67,8 +67,8 @@ button {
 /* ======= HEADER ======= */
 
 .header {
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   border: 1px solid #ececec;
 }
 .header-container {
@@ -93,6 +93,8 @@ button {
   letter-spacing: 0.03em;
   color: black;
   margin-right: 95px;
+  /* padding-top: 32px;
+  padding-bottom: 32px; */
 }
 
 .first-part-name-site {
@@ -174,7 +176,7 @@ button {
 
 /* ======= HERO ======= */
 .hero {
-  height: 600px;
+  min-height: 600px;
   max-width: 1600px;
   margin-right: auto;
   margin-left: auto;
